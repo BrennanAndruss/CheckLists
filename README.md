@@ -1,4 +1,4 @@
-# CheckLists
+# ☑️ CheckLists
 
 A Google Tasks clone with React and JavaScript, with additional features. This app was completed as an individual project for the Cal Poly Google Student Developer Club, created to put React and Firebase skills from workshops into practice on a CRUD application.
 
