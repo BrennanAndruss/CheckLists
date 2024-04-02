@@ -13,7 +13,7 @@ A Google Tasks clone with React and JavaScript, with additional features. This a
 
 - **CRUD Operations**: Create, edit, and delete lists and tasks. To see all task operations, hover or focus on a task. 
 - **Task Details**: Add details and dates to tasks. Dates can be selected with the built-in Date input GUI.
-- **Complete Tasks**: Check and uncheck tasks to mark as complete. Tasks appear with strikethrough text when completed.
+- **Complete Tasks**: Check and uncheck tasks to mark as complete. Tasks appear with strikethrough text when completed, and details are hidden.
 - **Keyboard Navigation**: Perform all operations through navigation with the TAB key.
 
 ## 🔍 The Process
