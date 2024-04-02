@@ -1,14 +1,4 @@
 {
-  "database": {
-    "rules": "databse.rules.json"
-  },
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  },
-  "functions": {
-    "source": "functions"
-  },
   "hosting": {
     "public": "build",
     "ignore": [
